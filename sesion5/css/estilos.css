@@ -1,0 +1,14 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+/*
+.fondo{
+    background-color: red;
+}
+*/
+div{
+    height: auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+  }
